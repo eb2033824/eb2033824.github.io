@@ -2,7 +2,7 @@
 
 Hello! I am [eb2033824].
 
-Write a short paragraph about your interests, skills, or goals.
+My favorite things to do are play Basketball, play videogames, and have fun with my friends.
 
 ## Navigation
 
