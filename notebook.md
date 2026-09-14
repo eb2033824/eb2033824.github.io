@@ -1,23 +1,14 @@
 ## Table of Contents
 
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
-  - [Headings](#headings)
-
+- [Headings](#headings)
   - [Text Formatting](#text-formatting)
-
-- [Blocks](#blocks)
-- [Concepts](#concepts)
-- [Vocabulary](#vocabulary)
-
-
-
-
-- [Blocks](#blocks)
-- [Concepts](#concepts)
-- [Vocabulary](#vocabulary)
-- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
 
 ## Blocks
 Hat blocks are special event-handling block with a curved or flat top that starts a stack of code 
