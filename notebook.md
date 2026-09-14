@@ -6,13 +6,32 @@
 
   - [Text Formatting](#text-formatting)
 
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 
 
 
 
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+- [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
 
+## Blocks
+Hat blocks are special event-handling block with a curved or flat top that starts a stack of code 
+A Stack Block is a rectangular puzzle-piece command that performs a main action like moving a robot or setting a pen color
+ C-Block is a control-flow block shaped like the letter "C" that wraps around other command blocks to repeat them or run them conditionally
+ A Reporter block is oval-shaped block that reports a numeric or text value
+ A Boolean/hexagonal block reports a condition as either true or false
+ The Repeat block is an orange C-shaped control block that loops a set of commands a specific number of times
+ The Wait until block pauses the program flow until a specific rule becomes true
+an If Then block is a C-shaped control block that makes decisions based on a specific condition
+The Forever block is a control structure that loops any code placed inside it indefinitely
+## Concepts
 
+## Vocabulary
 
 
 
