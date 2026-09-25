@@ -53,7 +53,7 @@ Loop + Iteration- A structural programming format a C-block used to repeat a seg
 
 Sensor + Bumper Sensor- Sensor is a hardware component built into the VR Robot that reads external real-time data from its current Playground, sending that data back to the program to drive decisions. Bumper sensor is a physical contact switch located on the front left and right sides of the robot. It outputs TRUE when physically pressed against a wall or obstacle, and FALSE when released.
 
-Boolean + Condition + TRUE/FALSE- Boolean a primitive data format that can only hold one of two specific states: TRUE or FALSE. Condition a variable state or logical comparison expression like checking if a sensor is pressed that returns a Boolean value to control scripts.
+Boolean + Condition + TRUE/FALSE- Boolean a primitive data format that can only hold one of two specific states: TRUE or FALSE. Condition a variable state or logical comparison expression like checking if a sensor is pressed that returns a Boolean value to control scripts. TRUE: The logic state confirming that a condition's requirements have been met.FALSE: The logic state confirming that a condition's requirements have not been met.
 
 Distance Sensor + Threshold- 
 
