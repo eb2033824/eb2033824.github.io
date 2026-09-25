@@ -55,19 +55,34 @@ Sensor + Bumper Sensor- Sensor is a hardware component built into the VR Robot t
 
 Boolean + Condition + TRUE/FALSE- Boolean a primitive data format that can only hold one of two specific states: TRUE or FALSE. Condition a variable state or logical comparison expression like checking if a sensor is pressed that returns a Boolean value to control scripts. TRUE: The logic state confirming that a condition's requirements have been met.FALSE: The logic state confirming that a condition's requirements have not been met.
 
-Distance Sensor + Threshold- 
+Distance Sensor + Threshold- Distance Sensor a digital sensor that measures the distance between the robot and the nearest object like a wall or obstacle by bouncing ultrasonic or laser signals and calculating the time return. Threshold  a specific baseline value used in programming to trigger an action
 
-Coordinate Plane + X/Y Coordinates- 
+Coordinate Plane + X/Y Coordinates- A grid system used in VEXcode VR to track location, where the center of the playground is typically (0,0), horizontal movements change the X-coordinate, and vertical movements change the Y-coordinate.
 
-Location Sensor-
+Location Sensor-  A built-in virtual sensor that reads and reports the current X and Y coordinates and heading angle of the robot on the playground grid.
 
-Comment	Comment
+Comment	Comment- A non-functional note written in the code by the programmer to explain what the code does, completely ignored by the robot during execution.
 
-Eye Sensor-
+Eye Sensor-  A front-facing or down-facing sensor that detects the presence of an object, its distance, and specific colors like red, green, blue, or green.
 
-Conditional Statement-
+Conditional Statement- A programming structure (such as if-then or if-then-else) that directs the robot to make decisions and execute specific blocks only if a certain condition is true.
 
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
 
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 
 
