@@ -21,10 +21,51 @@ A Stack Block is a rectangular puzzle-piece command that performs a main action 
 an If Then block is a C-shaped control block that makes decisions based on a specific condition
 The Forever block is a control structure that loops any code placed inside it indefinitely
 ## Concepts
+Sequence- The specific order in which instructions are executed.
 
+Parameters- The inputs given to a command to customize its behavior.
+
+Loops / Iteration- Structures that repeat a block of code multiple times.
+
+Sensors- Distance Sensor, Bumper Switch, and Optical Sensor allow the robot to detect walls, physical impacts, and object colors.
+
+Booleans & Conditions-  expressions that evaluate to TRUE or FALSE
+
+Sense → Think → Act- The continuous loop of a robot
+
+Comparisons-  operations that compare two values to determine if a condition is TRUE or FALSE.
+
+Coordinates- The X and Y values used to describe the exact position of a robot
+
+Conditionals- Statements that allow a program to make decisions and execute different code
+
+Patterns- Recognizing repeated behaviors or problems to create more algorithms
 ## Vocabulary
+VR Robot + Playground- The virtual robot in VEXcode VR. It comes pre-built with pre-configured features like a drivetrain, pen, and multiple built-in sensors
 
+Programming Language + Project- The interactive virtual grid workspace or 3D window where the VR Robot executes commands, maneuvers, and solves challenges
 
+Behavior + Command- The physical action or response displayed by the VR Robot as a result of running a specific command or sequence of blocks
+
+Drivetrain- Drivetrain blocks handle forward/backward movement, turning, and speed adjustments.
+
+Loop + Iteration- A structural programming format a C-block used to repeat a segment of code either infinitely or a set number of times, reducing block redundancy.
+
+Sensor + Bumper Sensor- Sensor is a hardware component built into the VR Robot that reads external real-time data from its current Playground, sending that data back to the program to drive decisions. Bumper sensor is a physical contact switch located on the front left and right sides of the robot. It outputs TRUE when physically pressed against a wall or obstacle, and FALSE when released.
+
+Boolean + Condition + TRUE/FALSE- Boolean a primitive data format that can only hold one of two specific states: TRUE or FALSE. Condition a variable state or logical comparison expression like checking if a sensor is pressed that returns a Boolean value to control scripts.
+
+Distance Sensor + Threshold- 
+
+Coordinate Plane + X/Y Coordinates- 
+
+Location Sensor-
+
+Comment	Comment
+
+Eye Sensor-
+
+Conditional Statement-
 
 
 
