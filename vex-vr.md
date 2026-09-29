@@ -24,5 +24,4 @@ Use a green pen to mark what year you were born.
 <img width="400" height="250" alt="Screenshot 2026-09-29 103808" src="https://github.com/user-attachments/assets/99fceae0-abf5-4235-a69a-6643aa2b79ce" /> <img width="500" height="250" alt="Screenshot 2026-09-29 103816" src="https://github.com/user-attachments/assets/0c92b358-3fee-44f9-be54-004d3bc3cae6" />
 
 ### What I Learned
-
 What I learned was that each square in the Numbered Grid Map measures 200mm by 200mm and the Set Pen color block from the Looks category marks the numbers with the color you choose.
