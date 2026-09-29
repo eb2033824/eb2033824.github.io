@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+[VEX VR](vex-vr.md) : (This folder is about the many different challenges we did in VEX VR from the beginning to current challenge and how we solved it and the problems that we had)
 
 - Project 2: Description
 
