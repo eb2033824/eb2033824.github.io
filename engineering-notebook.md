@@ -18,9 +18,9 @@
 - What materials, parts, or tools did you need?- We need cardboard, measuring tape, and track parts unting the vex IQ parts.
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
+- What did you design, sketch, build, or program?- We sketched out our track and we made a cardboard cut out of the robot.
+- What changes or improvements did you make? - changes we made was making the track fit two robots to race in
+- What tasks did you complete?- We completed the sketch
 - Include pictures, diagrams, or measurements if applicable.
 
 ### 3. What tests or experiments did you perform?
@@ -45,7 +45,7 @@
 
 ## Day 2
 
-— Date: __________
+— Date: 11/6/26
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
@@ -80,7 +80,7 @@
 
 ## Day 3
 
-— Date: __________
+— Date: 11/10/26
 
 ### 1. What was your goal or plan for today?
 - What were you trying to accomplish?
